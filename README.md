@@ -1,4 +1,4 @@
-<h1 align="center">Здравствуйте! Меня зовут <a href="" target="_blank">Галина</a> 
+<h1 align="center">Здравствуйте! Меня зовут Галина
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior QA-Engineer</h3>
 
@@ -10,7 +10,7 @@
 - коммуникабельность
 - стремление к развитию
 - усидчивость и скрупулезность
-- способность выявлять причинно-следственные связ
+- способность выявлять причинно-следственные связи
 - перфекционизм
   
 ## Мои навыки:
@@ -19,7 +19,7 @@
 - Jira
 - Swagger
 - Confluence
-- Gits
+- Git
 - SQL PostgreSQL
 
 
